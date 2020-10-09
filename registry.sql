@@ -1,0 +1,1 @@
+create table registry(rid int not null auto_increment, firstName varchar(100) not null,lastname varchar(100) not null,password varchar(100) not null,cpassword varchar(100) not null,email varchar(100) not null,birth_date varchar(100) not null,imageName varchar(100) not null);
